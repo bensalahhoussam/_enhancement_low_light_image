@@ -15,4 +15,17 @@ We can assume that the image can be decomposed into two feature components in th
 
 The model is designed to enhance a low-light image to corresponding normal-light versions. It consists of an encoder E, a feature concatenation module and a decoder G. The network employs down-sampling part of U-Net as the encoder E, followed by a global average pooling, which respectively encodes Ii and Ir as feature vectors Fi and Fr. Correspondingly, the decoder G is up-sampling part of U-Net to reconstruct the feature vector.
 
-https://user-images.githubusercontent.com/112108580/205706419-333fb383-f22f-4419-8875-c416f9f1827a.png
+<img width="520" height="216" alt="image" src="https://github.com/user-attachments/assets/60a6988a-f43b-414c-a552-6c3becccf070" />
+
+
+## Data Preparation 
+
+LOL dataset is involved in training. It consists of 1000 image pairs, where each pair contains a low-light image and its corresponding normal-light image.
+
+You can also download the dataset from
+
+* Low link:https://drive.google.com/file/d/1jiO810sQgmkRDMxwRmSWImJOKh9gG3-p/view?usp=sharing
+* High link:https://drive.google.com/file/d/1QjsfY7fODsM_RkJxMO_no9VGachuivhk/view?usp=sharing
+
+## References
+* Shed Various Lights on a Low-Light Image:Multi-Level Enhancement Guided by Arbitrary References: arXiv:2101.00813v1
