@@ -137,3 +137,11 @@ class FullModel(nn.Module):
         return out
 
 
+# Example usage:
+if __name__ == "__main__":
+    model = FullModel()
+    x = torch.randn(1, 3, 256, 256)
+    y = model(x)
+    print("Output shape:", y.shape)
+
+
