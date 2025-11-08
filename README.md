@@ -34,9 +34,7 @@ You can also download the dataset from
 | Low-light Input | Reference Image | Enhanced Output |
 |-----------------|-----------------|-----------------|
 |<img width="600" height="400" alt="low_light" src="https://github.com/user-attachments/assets/1ecc57f2-871f-4bfb-88b7-076d875ee537" />| <img width="600" height="400" alt="ref" src="https://github.com/user-attachments/assets/2b520ab4-067b-48ed-8711-d15bb8888609" />|  <img width="600" height="400" alt="out_4" src="https://github.com/user-attachments/assets/3c027ed1-19b5-42ab-adb2-06965d7b3718" />|
-|<img width="600" height="400" alt="low_light_0" src="https://github.com/user-attachments/assets/d1da8ab6-7d09-4636-b5d3-6366d34abc70" />|
-<img width="600" height="400" alt="ref" src="https://github.com/user-attachments/assets/3510ec5f-38a3-4c55-909f-350b5f1929ba" />| <img width="600" height="400" alt="out_0" src="https://github.com/user-attachments/assets/462c9fcd-8827-430e-bd12-cbc736d7fda3" />
-  |
+|<img width="600" height="400" alt="low_light_0" src="https://github.com/user-attachments/assets/d1da8ab6-7d09-4636-b5d3-6366d34abc70" />|<img width="600" height="400" alt="ref" src="https://github.com/user-attachments/assets/3510ec5f-38a3-4c55-909f-350b5f1929ba" />| <img width="600" height="400" alt="out_0" src="https://github.com/user-attachments/assets/462c9fcd-8827-430e-bd12-cbc736d7fda3" />|
 
 
 
