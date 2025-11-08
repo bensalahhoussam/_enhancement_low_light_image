@@ -33,10 +33,7 @@ You can also download the dataset from
 
 | Low-light Input | Reference Image | Enhanced Output |
 |-----------------|-----------------|-----------------|
-| ![low1]<img width="600" height="400" alt="low_light" src="https://github.com/user-attachments/assets/10df231b-b0bc-40db-9d36-d9a01c11b0e8" />
-() | ![ref1](assets<img width="600" height="400" alt="ref" src="https://github.com/user-attachments/assets/efe98bf6-3387-4757-9c34-818cd22500c4" />
-/ref1.png) | ![out1](assets/out<img width="600" height="400" alt="out_4" src="https://github.com/user-attachments/assets/284d0fc4-bcd4-46cf-99ae-fcd05717a2d0" />
-1.png) |
+|<img width="600" height="400" alt="low_light" src="https://github.com/user-attachments/assets/1ecc57f2-871f-4bfb-88b7-076d875ee537" />| <img width="600" height="400" alt="ref" src="https://github.com/user-attachments/assets/2b520ab4-067b-48ed-8711-d15bb8888609" />|  <img width="600" height="400" alt="out_4" src="https://github.com/user-attachments/assets/3c027ed1-19b5-42ab-adb2-06965d7b3718" />|
 
 
 
