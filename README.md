@@ -1,4 +1,4 @@
-# enhancement_low_light_image
+# Low Light Image Enhancement 
 
 This repository contains the code for low light image enhancement.
 
